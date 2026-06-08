@@ -1,0 +1,6 @@
+2026-06-08 21:21:10,665 - INFO - Successfully connected to Binance Futures Testnet.
+2026-06-08 21:21:10,666 - INFO - Sending order requests to Binance : {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.005}
+2026-06-08 21:21:10,899 - INFO - Order successfully filled/placed. Order ID: 14507477349
+2026-06-08 21:22:19,084 - INFO - Successfully connected to Binance Futures Testnet.
+2026-06-08 21:22:19,085 - INFO - Sending order requests to Binance : {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'timeInForce': 'GTC', 'price': 95000.0}
+2026-06-08 21:22:19,306 - INFO - Order successfully filled/placed. Order ID: 14507520401
