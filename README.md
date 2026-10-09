@@ -127,7 +127,7 @@ binance-futures-bot/
     └── logging_config.py
 ```
 
----
+--
 
 ## 📜 License
 
